@@ -6,6 +6,8 @@ nav_exclude: true
 
 ## [Pokemon Emerald Crest v1.0.8.6 UPS Patch](https://ko-fi.com/api/file-upload/91c1350d-3ad3-4162-951d-ab35968ba302/download?transactionId=9e2882f1-5a6a-4cc3-99df-7b19257d1213)
 
+> `v1.0.9` is taking a bit longer than expected, so here's a small bug-fix release.
+
 ```
 What's New!
 🔸Chaos Mode is back!!
