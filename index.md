@@ -55,6 +55,7 @@ What's New!
 🔸Updated Easy, Normal, and Hard mode requirements
 🔸Increased the shiny odds to 1/4096
 🔸Updated Spotlight Events to run the entire day
+🔸Move Tutor now accepts cash if you run out of heart scales
 🔸Fixed several other bugs 
 🔸And a lot of minor improvements
 ```
