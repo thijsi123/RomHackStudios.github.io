@@ -1,5 +1,5 @@
-title: Rom Hacks Studio
-description:
+title: Rom Hack Studio
+description: https://cdn.discordapp.com/attachments/1101397974313074708/1125385810477338724/pokeemerald-4.png
 theme: just-the-docs
 
 url: https://romhackstudios.github.io/
@@ -9,7 +9,7 @@ aux_links:
 
 color_scheme: midnight
 
-
+favicon_ico: "/ico_shuffle_2599.png"
 
 callouts:
   highlight:
