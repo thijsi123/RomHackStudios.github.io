@@ -55,6 +55,9 @@ What's New!
 🔸Fixed several other bugs 
 🔸And a lot of minor improvements
 ```
+> Before updating to  `v1.0.8.5`  It is recommended that you update to `v1.0.8.4` and heal your party at the Pokemon center.
+> Those who encountered the black screen issue, please share the status code in the ⁠#status-report prior to engaging in battle or healing
+> your party at the Pokemon Centre. To retrieve the status code, please access the PC located in Littleroot and click on version `1.0.8.5`
 
 ## [Pokemon Emerald Crest v1.0.8.4 UPS Patch](https://ko-fi.com/api/file-upload/9cd230b8-ea42-4a27-8305-d744baf9ac35/download?transactionId=d254967d-8f99-44eb-890b-8860e0fde9ac)
 
@@ -75,6 +78,7 @@ What's New!
 🔸Fixed several other bugs
 🔸And a lot of minor improvements
 ```
+> Before updating to  `v1.0.8.4` It is recommended that you update to `v1.0.8.3` and heal your party at the Pokemon center.
 
 ## [Pokemon Emerald Crest v1.0.8.3 UPS Patch](https://ko-fi.com/api/file-upload/ec54840b-a723-4647-afcb-1e35e9478b55/download?transactionId=9fd41810-c49d-42f6-aaa2-7c144cdc9e65)
 
@@ -94,6 +98,8 @@ What's New!
 🔸Fixed several other bugs 
 🔸And a lot of minor improvements
 ```
+> This update fixes lots of bugs, and only a few remain they are pinned #⁠bug-reports🪲 
+> Let me know if the camera alignment issue is still happening.
 
 ## [Pokemon Emerald Crest v1.0.8.2 UPS Patch](https://ko-fi.com/api/file-upload/7c9e4da2-2241-4812-9a68-dda4ceb117a7/download?transactionId=7e42e4f7-9b5f-4b43-b7fc-3eade90af831)
 
@@ -120,6 +126,7 @@ What's New!
 🔸Fixed several other bugs 
 🔸And a lot of minor improvements
 ```
+> Let me know if the camera alignment issue is still happening.
 
 ## [Pokemon Emerald Crest v1.0.8.1 UPS Patch](https://ko-fi.com/api/file-upload/ac19cd89-3abb-4c8f-926a-5553413447f5/download?transactionId=2d6f01d1-e733-4529-aeb7-d4136ecf0320)
 
