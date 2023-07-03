@@ -102,8 +102,8 @@ If you encounter any issues or have questions about Pokemon Emerald Crest, pleas
 <script>
   kofiWidgetOverlay.draw('aaghatislive', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text': 'Support Us',
+    'floating-chat.donateButton.background-color': '#ff5f5f',
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
