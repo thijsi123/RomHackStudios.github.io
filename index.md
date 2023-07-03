@@ -24,11 +24,37 @@ Bug Fix
 ```
 What's New!
 
-🔸Spotlight Events
-🔸Fixed Black Screen Issue while fighting Some Gym Leaders 
-🔸Fixed game corner prices for EXP Candys
-🔸Added more Wild Bosses (DNS)
-🔸Fixed Some Follower Sprites
+🔸Chaos Mode is back!!
+🔸Added Nature Mints
+🔸Fixed Fiery Path 
+🔸Fixed broken ninja disguise 
+🔸Fixed Spotlight Event entrance fee
+🔸Fixed Mossdeep City Space Center 2F Invisible battle OPW
+🔸Fixed Triple Kick reducing PP twice
+🔸Updated some in-game trades
+🔸Fixed Ability Capsules
+🔸Fixed Light Of Ruin freezing the game
+🔸Fixed Devastating Drake freezing the game
+🔸Fixed Flatter freezing the game
+🔸Fixed disobedience using wrong move effect issue
+🔸Removed Updating Wallclock (Prevents Breaking On Real Hardware)
+🔸Added More Followers (GEN 5 completed)
+🔸Fixed several Followers
+🔸Updated the randomizer Generations (gen 1-3 or gen 1-7...)
+🔸Turn On/Off Exp Share from the Options Menu
+🔸Added Checks for Hyper Training
+🔸Fixed learning blank moves "-" when random moves are activated
+🔸Fixed an issue where you can't move items in Nuzlocke mode from PC to party
+🔸Fixed Fairy Lock
+🔸Fixed an issue where fainted mons were not sent to PC in Nuzlocke Mode during the double battle with Steven at Mossdeep space center
+🔸Fixed Mimikyu's Disguise
+🔸Fixed Throat Spray Description
+🔸Fixed Random starter not working
+🔸Fixed include legendaries not working
+🔸Fixed Nuzlocke double encounter bug
+🔸Updated Easy, Normal, and Hard mode requirements
+🔸Increased the shiny odds to 1/4096
+🔸Updated Spotlight Events to run the entire day
 🔸Fixed several other bugs 
 🔸And a lot of minor improvements
 ```
