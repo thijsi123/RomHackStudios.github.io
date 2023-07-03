@@ -20,7 +20,7 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-[Emerald Crest v1.0.8.5 UPS Patch](https://ko-fi.com/api/file-upload/ea9c675b-04d6-4b67-a84b-9d27db3f564f/download?transactionId=65997c01-4f04-4858-a53f-df0362f15b51){: .btn }
+[Emerald Crest v1.0.8.6 UPS Patch](https://ko-fi.com/api/file-upload/ea9c675b-04d6-4b67-a84b-9d27db3f564f/download?transactionId=65997c01-4f04-4858-a53f-df0362f15b51){: .btn }
 ```
 What's New!
 
@@ -100,13 +100,13 @@ What's New!
 
 ### Previous Releases
 
-- [v1.0.8.4](https://ko-fi.com/api/file-upload/9cd230b8-ea42-4a27-8305-d744baf9ac35/download?transactionId=d254967d-8f99-44eb-890b-8860e0fde9ac)
+- [v1.0.8.5](https://ko-fi.com/api/file-upload/ea9c675b-04d6-4b67-a84b-9d27db3f564f/download?transactionId=65997c01-4f04-4858-a53f-df0362f15b51)
 {: .d-inline-block }
 
 Bug Fix
 {: .label .label-yellow }
 
-- [v1.0.8.3](https://ko-fi.com/api/file-upload/ec54840b-a723-4647-afcb-1e35e9478b55/download?transactionId=9fd41810-c49d-42f6-aaa2-7c144cdc9e65)
+- [v1.0.8.4](https://ko-fi.com/api/file-upload/9cd230b8-ea42-4a27-8305-d744baf9ac35/download?transactionId=d254967d-8f99-44eb-890b-8860e0fde9ac)
 {: .d-inline-block }
 
 Bug Fix
@@ -119,13 +119,13 @@ Major Update
 {: .label .label-blue }
 
 
-[see full changelog](https://aaghatislive.github.io/RomHacksStudio/changelog.html)
+[see full changelog](https://romhackstudios.github.io/pages/changelog.html)
 
 ## Installation Instructions
 
 To play Pokemon Emerald Crest, you will need to have a Game Boy Advance emulator installed on your device. We recommend using [Mgba](https://mgba.io/downloads.html) for Windows, Linux, and Mac, or [My Boy!](https://play.google.com/store/apps/details?id=com.fastemulator.gba) for Android devices.
 
-Once you have downloaded the emulator, follow these steps in [How To Patch](https://aaghatislive.github.io/RomHacksStudio/HowToPatch.html) to play Pokemon Emerald Crest
+Once you have downloaded the emulator, follow these steps in [How To Patch](https://romhackstudios.github.io/pages/howtopatch.html) to play Pokemon Emerald Crest
 
 ## Support
 
