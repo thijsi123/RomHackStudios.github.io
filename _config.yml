@@ -1,5 +1,5 @@
 title: Rom Hack Studio
-description: https://cdn.discordapp.com/attachments/1101397974313074708/1125385810477338724/pokeemerald-4.png
+description: Download the latest Emerald Crest patch here.
 theme: just-the-docs
 
 url: https://romhackstudios.github.io/
@@ -10,6 +10,9 @@ aux_links:
 color_scheme: midnight
 
 favicon_ico: "/ico_shuffle_2599.png"
+
+back_to_top: true
+back_to_top_text: "Back to top"
 
 callouts:
   highlight:
