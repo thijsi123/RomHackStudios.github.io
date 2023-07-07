@@ -72,7 +72,7 @@
   </style>
 </head>
 <body>
-  <h1>Wild Encounter Data</h1>
+  <h1>Wild Encounter</h1>
 
   <div>
     <label for="searchInput">Search:</label>
@@ -83,7 +83,7 @@
 
   <script>
     // Fetch the JSON data
-    fetch('./wild_encounter_data.json')
+    fetch('wild_encounter_data.json')
       .then(response => response.json())
       .then(data => {
         // Store the encounter data
