@@ -54,14 +54,6 @@
       vertical-align: middle;
       border-radius: 50%;
     }
-
-    .levels-column {
-      width: 80px;
-    }
-
-    .rate-column {
-      width: 60px;
-    }
     
     @media only screen and (max-width: 600px) {
       table {
@@ -76,18 +68,11 @@
         width: 30px;
         height: 30px;
       }
-
-      .levels-column {
-        width: 60px;
-      }
-
-      .rate-column {
-        width: 50px;
-      }
     }
   </style>
 </head>
 <body>
+  <h1>Wild Encounter Data</h1>
 
   <div>
     <label for="searchInput">Search:</label>
@@ -151,27 +136,8 @@
           const header = document.createElement('th');
           const mapName = encounter.map.replace('MAP_', '');
           header.textContent = `Encounters for ${mapName}`;
-          header.colSpan = 5;
+          header.colSpan = 4;
           table.appendChild(header);
-
-          // Create the table columns
-          const imageColumn = document.createElement('th');
-          imageColumn.textContent = 'Image';
-          table.appendChild(imageColumn);
-
-          const pokemonColumn = document.createElement('th');
-          pokemonColumn.textContent = 'Pokemon';
-          table.appendChild(pokemonColumn);
-
-          const levelsColumn = document.createElement('th');
-          levelsColumn.className = 'levels-column';
-          levelsColumn.textContent = 'Levels';
-          table.appendChild(levelsColumn);
-
-          const rateColumn = document.createElement('th');
-          rateColumn.className = 'rate-column';
-          rateColumn.textContent = 'Rate';
-          table.appendChild(rateColumn);
 
           // Iterate over the encounter types (land, water, etc.)
           group.fields.forEach(async field => {
@@ -208,13 +174,11 @@
 
                 // Create the levels cell
                 const levelsCell = document.createElement('td');
-                levelsCell.className = 'levels-column';
                 levelsCell.textContent = `${mon.min_level}-${mon.max_level}`;
                 detailsRow.appendChild(levelsCell);
 
                 // Create the rate cell
                 const rateCell = document.createElement('td');
-                rateCell.className = 'rate-column';
                 rateCell.textContent = `${encounterRate}%`;
                 detailsRow.appendChild(rateCell);
 
@@ -252,22 +216,21 @@
           }
 
           if (matchFound) {
-           ```html
-              rows[i].style.display = '';
-              hasMatch = true;
-            } else {
-              rows[i].style.display = 'none';
-            }
-          }
-
-          // Show/hide the table based on search results
-          if (hasMatch) {
-            table.style.display = '';
+            rows[i].style.display = '';
+            hasMatch = true;
           } else {
-            table.style.display = 'none';
+            rows[i].style.display = 'none';
           }
-        });
-      }
-    </script>
-  </body>
+        }
+
+        // Show/hide the table based on search results
+        if (hasMatch) {
+          table.style.display = '';
+        } else {
+          table.style.display = 'none';
+        }
+      });
+    }
+  </script>
+</body>
 </html>
