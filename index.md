@@ -9,7 +9,7 @@ permalink: /
 
 Thank you for choosing Pokemon Emerald Crest! You can download the latest version of the game below.
 <p align="center">
-<img src="https://github.com/RomHackStudios/RomHackStudios.github.io/assets/138398594/b8db1771-5179-4bc3-b36a-3f9326afa582" />
+<img src="https://cdn.discordapp.com/attachments/1101397974313074709/1127309303028646050/Adobe_Express_20230709_0013280_1.png" />
 </p>
 
 ## **Download**
