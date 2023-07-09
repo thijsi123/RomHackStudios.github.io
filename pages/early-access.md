@@ -2,14 +2,14 @@
 title: Early Access
 layout: page
 nav_exclude: true
-image: /pages/assets/v1.0.8.7.EA.png
+image: /pages/v1.0.8.7.EA.png
 ---
 # **Pokemon Emerald Crest**
 
 Thank you for choosing Pokemon Emerald Crest! You can download the `Early Access` version of the game below.
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1101397974313074708/1127582322749866064/Adobe_Express_20230709_1811050_1.png" />
+<img src="https://media.discordapp.net/attachments/1101397974313074708/1127584844751315004/Adobe_Express_20230709_1829050_1.png" />
 </p>
 
 ## **Download**
@@ -18,7 +18,7 @@ Thank you for choosing Pokemon Emerald Crest! You can download the `Early Access
 Early Access 
 {: .label .label-purple }
 
-[v1.0.8.7 EARLY ACCESS](){: .btn .btn-blue .mr-2 }
+[Early Access v1.0.8.7](){: .btn .btn-purple .mr-2 }
 ```
 What's New!
 - Fixed Exp Share breaking in options menu
