@@ -65,9 +65,6 @@ What's New!
 🔸And a lot of minor improvements
 ```
 
-{: .warning }
-> It's an `Early release` so there might be some bugs and issues, please report them in our [discord server]
-
 ## **v1.9.0**
 {: .d-inline-block }
 
