@@ -1,6 +1,6 @@
 ---
 title: Download
-layout: home
+layout: page
 nav_order: 1
 permalink: /
 image: /v1.0.9.png
