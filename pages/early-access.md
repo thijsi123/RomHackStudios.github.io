@@ -24,7 +24,7 @@ What's New!
 
 - Fixed Exp Share breaking in options menu
 - Fixed Flickering move text in double battles
-- Added Exp multiplayer in options menu
+- Added Exp multiplier in options menu
 ```
 
 {: .warning }
