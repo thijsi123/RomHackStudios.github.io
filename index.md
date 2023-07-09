@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 permalink: /
-image: "/v1.0.9.jpg"
+image: "https://cdn.discordapp.com/attachments/1101397974313074709/1127315767164153938/Adobe_Express_20230709_0034150_1.png"
 ---
 
 # **Pokemon Emerald Crest**
