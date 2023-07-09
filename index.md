@@ -1,6 +1,6 @@
 ---
 title: Download
-layout: page
+layout: home
 nav_order: 1
 permalink: /
 image: /v1.0.9.png
@@ -25,7 +25,7 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-[Emerald Crest v1.0.8.6 UPS Patch](https://ko-fi.com/api/file-upload/91c1350d-3ad3-4162-951d-ab35968ba302/download?transactionId=9e2882f1-5a6a-4cc3-99df-7b19257d1213){: .btn .btn-green }
+[Emerald Crest v1.0.8.6 UPS Patch](https://ko-fi.com/api/file-upload/91c1350d-3ad3-4162-951d-ab35968ba302/download?transactionId=9e2882f1-5a6a-4cc3-99df-7b19257d1213){: .btn .btn-green } [Early Access]{: .btn .btn-outline }
 ```
 What's New!
 
