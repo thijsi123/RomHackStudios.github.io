@@ -30,6 +30,7 @@ Bug Fix
 {: .new }
 > What's New!
 > 
+> ```
 > 🔸Chaos Mode is back!!
 > 🔸Added Nature Mints
 > 🔸Fixed Fiery Path 
@@ -64,6 +65,7 @@ Bug Fix
 > 🔸Move Tutor now accepts cash if you run out of heart scales
 > 🔸Fixed several other bugs 
 > 🔸And a lot of minor improvements
+> ```
 
 {: .warning }
 > It's an `Early release` so there might be some bugs and issues, please report them in our [discord server]
