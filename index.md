@@ -26,9 +26,6 @@ Bug Fix
 {: .label .label-yellow }
 
 [Emerald Crest v1.0.8.6 UPS Patch](https://ko-fi.com/api/file-upload/91c1350d-3ad3-4162-951d-ab35968ba302/download?transactionId=9e2882f1-5a6a-4cc3-99df-7b19257d1213){: .btn .btn-green }
-
-<details close markdown="block">
-
 ```
 What's New!
 
@@ -67,7 +64,6 @@ What's New!
 🔸Fixed several other bugs 
 🔸And a lot of minor improvements
 ```
-</details>
 
 {: .warning }
 > It's an `Early release` so there might be some bugs and issues, please report them in our [discord server]
