@@ -26,44 +26,43 @@ Bug Fix
 {: .label .label-yellow }
 
 [Emerald Crest v1.0.8.6 UPS Patch](https://ko-fi.com/api/file-upload/91c1350d-3ad3-4162-951d-ab35968ba302/download?transactionId=9e2882f1-5a6a-4cc3-99df-7b19257d1213){: .btn .btn-green }
-```
-What's New!
-
-🔸Chaos Mode is back!!
-🔸Added Nature Mints
-🔸Fixed Fiery Path 
-🔸Fixed broken ninja disguise 
-🔸Fixed Spotlight Event entrance fee
-🔸Fixed Mossdeep City Space Center 2F Invisible battle OPW
-🔸Fixed Triple Kick reducing PP twice
-🔸Updated some in-game trades
-🔸Fixed Ability Capsules
-🔸Fixed Light Of Ruin freezing the game
-🔸Fixed Devastating Drake freezing the game
-🔸Fixed Flatter freezing the game
-🔸Fixed disobedience using wrong move effect issue
-🔸Removed Updating Wallclock (Prevents Breaking On Real Hardware)
-🔸Added More Followers (GEN 5 completed)
-🔸Fixed several Followers
-🔸Updated the randomizer Generations (gen 1-3 or gen 1-7...)
-🔸Turn On/Off Exp Share from the Options Menu
-🔸Added Checks for Hyper Training
-🔸Fixed learning blank moves "-" when random moves are activated
-🔸Fixed an issue where you can't move items in Nuzlocke mode from PC to party
-🔸Fixed Fairy Lock
-🔸Fixed an issue where fainted mons were not sent to PC in Nuzlocke Mode during the double battle with Steven at Mossdeep space center
-🔸Fixed Mimikyu's Disguise
-🔸Fixed Throat Spray Description
-🔸Fixed Random starter not working
-🔸Fixed include legendaries not working
-🔸Fixed Nuzlocke double encounter bug
-🔸Updated Easy, Normal, and Hard mode requirements
-🔸Increased the shiny odds to 1/4096
-🔸Updated Spotlight Events to run the entire day
-🔸Move Tutor now accepts cash if you run out of heart scales
-🔸Fixed several other bugs 
-🔸And a lot of minor improvements
-```
+{: .new }
+> What's New!
+> 
+> 🔸Chaos Mode is back!!
+> 🔸Added Nature Mints
+> 🔸Fixed Fiery Path 
+> 🔸Fixed broken ninja disguise 
+> 🔸Fixed Spotlight Event entrance fee
+> 🔸Fixed Mossdeep City Space Center 2F Invisible battle OPW
+> 🔸Fixed Triple Kick reducing PP twice
+> 🔸Updated some in-game trades
+> 🔸Fixed Ability Capsules
+> 🔸Fixed Light Of Ruin freezing the game
+> 🔸Fixed Devastating Drake freezing the game
+> 🔸Fixed Flatter freezing the game
+> 🔸Fixed disobedience using wrong move effect issue
+> 🔸Removed Updating Wallclock (Prevents Breaking On Real Hardware)
+> 🔸Added More Followers (GEN 5 completed)
+> 🔸Fixed several Followers
+> 🔸Updated the randomizer Generations (gen 1-3 or gen 1-7...)
+> 🔸Turn On/Off Exp Share from the Options Menu
+> 🔸Added Checks for Hyper Training
+> 🔸Fixed learning blank moves "-" when random moves are activated
+> 🔸Fixed an issue where you can't move items in Nuzlocke mode from PC to party
+> 🔸Fixed Fairy Lock
+> 🔸Fixed an issue where fainted mons were not sent to PC in Nuzlocke Mode during the double battle with Steven at Mossdeep space center
+> 🔸Fixed Mimikyu's Disguise
+> 🔸Fixed Throat Spray Description
+> 🔸Fixed Random starter not working
+> 🔸Fixed include legendaries not working
+> 🔸Fixed Nuzlocke double encounter bug
+> 🔸Updated Easy, Normal, and Hard mode requirements
+> 🔸Increased the shiny odds to 1/4096
+> 🔸Updated Spotlight Events to run the entire day
+> 🔸Move Tutor now accepts cash if you run out of heart scales
+> 🔸Fixed several other bugs 
+> 🔸And a lot of minor improvements
 
 {: .warning }
 > It's an `Early release` so there might be some bugs and issues, please report them in our [discord server]
