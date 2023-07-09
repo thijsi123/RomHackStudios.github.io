@@ -8,6 +8,8 @@ permalink: /
 # **Pokemon Emerald Crest**
 
 Thank you for choosing Pokemon Emerald Crest! You can download the latest version of the game below.
+<html>
+<head>
   <style>
     .slide {
       display: none;
@@ -54,6 +56,9 @@ Thank you for choosing Pokemon Emerald Crest! You can download the latest versio
     setTimeout(showSlides, 2000); // Change slide every 2 seconds
   }
 </script>
+
+</body>
+</html>
 
 ## **Download**
 {: .d-inline-block }
