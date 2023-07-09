@@ -16,7 +16,7 @@ Thank you for choosing Pokemon Emerald Crest! You can download the `Early Access
 {: .d-inline-block }
 
 Early Access 
-{: .label .label-purple }
+{: .label .label-yellow }
 
 [Early Access v1.0.8.7](){: .btn .btn-purple .mr-2 }
 ```
@@ -25,6 +25,7 @@ What's New!
 - Fixed Flickering move text in double battles
 - Added Exp multiplayer in options menu
 ```
+
 {: .warning }
 > It's an `Early Access` version so there might be some bugs and issues, please report them in our [discord server]
 
