@@ -9,6 +9,9 @@ permalink: /
 
 Thank you for choosing Pokemon Emerald Crest! You can download the latest version of the game below.
 
+
+<html>
+<head>
   <style>
     .slide {
       display: none;
@@ -20,7 +23,8 @@ Thank you for choosing Pokemon Emerald Crest! You can download the latest versio
       vertical-align: middle;
     }
   </style>
-
+</head>
+<body>
 
 <div class="slide">
   <img src="https://cdn.discordapp.com/attachments/1101397974313074709/1127309303028646050/Adobe_Express_20230709_0013280_1.png">
@@ -54,6 +58,9 @@ Thank you for choosing Pokemon Emerald Crest! You can download the latest versio
     setTimeout(showSlides, 2000); // Change slide every 2 seconds
   }
 </script>
+
+</body>
+</html>
 
 ## **Download**
 {: .d-inline-block }
