@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Download
 layout: home
 nav_order: 1
 permalink: /
