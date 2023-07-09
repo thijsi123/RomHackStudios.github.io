@@ -8,9 +8,52 @@ permalink: /
 # **Pokemon Emerald Crest**
 
 Thank you for choosing Pokemon Emerald Crest! You can download the latest version of the game below.
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1101397974313074709/1127309303028646050/Adobe_Express_20230709_0013280_1.png" />
-</p>
+  <style>
+    .slide {
+      display: none;
+      text-align: center;
+    }
+
+    .slide img {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+
+<div class="slide">
+  <img src="https://cdn.discordapp.com/attachments/1101397974313074709/1127309303028646050/Adobe_Express_20230709_0013280_1.png">
+</div>
+
+<div class="slide">
+  <a href="https://example.com">
+    <img src="https://cdn.discordapp.com/attachments/1101397974313074709/1127446074009854113/Adobe_Express_20230516_1730430_1.png">
+  </a>
+</div>
+
+<div class="slide">
+  <img src="https://cdn.discordapp.com/attachments/1101397974313074709/1127315767164153938/Adobe_Express_20230709_0034150_1.png">
+</div>
+
+<script>
+  var slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("slide");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {
+      slideIndex = 1;
+    }
+    slides[slideIndex - 1].style.display = "block";
+    setTimeout(showSlides, 2000); // Change slide every 2 seconds
+  }
+</script>
 
 ## **Download**
 {: .d-inline-block }
