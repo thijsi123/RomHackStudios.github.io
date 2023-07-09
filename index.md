@@ -3,6 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 permalink: /
+image: "/v1.0.9.jpg"
 ---
 
 # **Pokemon Emerald Crest**
