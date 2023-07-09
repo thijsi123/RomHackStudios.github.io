@@ -30,67 +30,6 @@ What's New!
 {: .warning }
 > It's an `Early Access` version so there might be some bugs and issues, please report them in our [discord server]
 
-## **v1.9.0**
-{: .d-inline-block }
-
-33.33% complete
-{: .label .label-red }
-
-<html>
-<head>
-  <style>
-    .progress-bar {
-      width: 250px;
-      height: 10px;
-      background-color: #f0f0f0;
-      border-radius: 10px;
-      position: relative;
-      overflow: hidden;
-      box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
-      visibility: hidden; /* Initially hide the progress bar */
-      opacity: 0; /* Initially set opacity to 0 */
-      transition: opacity 0.5s ease-in-out;
-    }
-
-    .progress {
-      height: 100%;
-      background-color: #4caf50;
-      width: 0%;
-      border-radius: 10px;
-      position: absolute;
-      top: 0;
-      left: 0;
-      animation: progressAnimation 2s ease-in-out forwards;
-    }
-
-    @keyframes progressAnimation {
-      0% {
-        width: 0%;
-      }
-      100% {
-        width: 33.33%;
-      }
-    }
-  </style>
-  <script>
-    window.addEventListener('scroll', function() {
-      var progressBar = document.querySelector('.progress-bar');
-      var progressRect = progressBar.getBoundingClientRect();
-      var windowHeight = window.innerHeight || document.documentElement.clientHeight;
-
-      if (progressRect.top < windowHeight && progressRect.bottom >= 0) {
-        progressBar.style.visibility = 'visible';
-        progressBar.style.opacity = '1';
-      }
-    });
-  </script>
-</head>
-<body>
-  <div class="progress-bar">
-    <div class="progress"></div>
-  </div>
-</body>
-</html>
 
 ## Installation Instructions
 
