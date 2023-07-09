@@ -1,7 +1,6 @@
 title: Rom Hack Studios
 description: Download the latest Emerald Crest patch here.
 theme: just-the-docs
-image: "/v1.0.9.png"
 
 url: https://romhackstudios.github.io/
 
@@ -10,6 +9,9 @@ aux_links:
 
 color_scheme: midnight
 
+plugins:
+  - jekyll-seo-tag
+  
 favicon_ico: "/ico_shuffle_2599.png"
 
 back_to_top: true
