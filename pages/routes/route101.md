@@ -2,7 +2,7 @@
 layout: page
 title: Route 101
 nav_exclude: true
-image: /routes/assets/route101.png
+image: pages/routes/assets/route101.png
 ---
 # Route 101
 
