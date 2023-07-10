@@ -18,7 +18,7 @@ Thank you for choosing Pokemon Emerald Crest! We are excited to offer you the op
 Early Access 
 {: .label .label-yellow }
 
-[Early Access v1.0.8.7](){: .btn .btn-purple .mr-2 }
+[Early Access v1.0.8.7](https://ko-fi.com/api/file-upload/74352d54-1bc8-4797-8b7d-8ef8fd0a6b03/download?transactionId=752973af-7a16-4965-9214-b0b3628c291c){: .btn .btn-purple .mr-2 }
 ```
 What's New!
 
