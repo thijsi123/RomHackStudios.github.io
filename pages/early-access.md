@@ -28,7 +28,8 @@ What's New!
 - Fixed broken level scalling
 - Fixed Synchronize not setting same nature
 - Fixed Mints removing shinyness
-- Fixed Hoothoot follower sprite
+- Fixed Hoothoot & Beldum follower sprites
+- Added GEN 6 followers
 ```
 
 {: .warning }
