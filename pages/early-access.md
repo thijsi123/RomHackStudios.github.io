@@ -20,7 +20,7 @@ Early Access
 
 [Early Access v1.0.8.7](){: .btn .btn-purple .mr-2 }
 ```
-What's New
+What's New!
 
 - Fixed Exp Share breaking in the options menu
 - Fixed flickering move text in double battles
