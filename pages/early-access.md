@@ -25,7 +25,7 @@ What's New!
 - Fixed Exp Share breaking in the options menu
 - Fixed flickering move text in double battles
 - Added Exp multiplier in the options menu
-- Fixed broken level scalling
+- Fixed broken level scaling 
 - Fixed Synchronize not setting same nature
 - Fixed Mints removing shinyness
 - Fixed Hoothoot & Beldum follower sprites
