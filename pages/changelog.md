@@ -4,6 +4,33 @@ layout: page
 nav_exclude: true
 ---
 
+## [Emerald Crest v1.0.8.7 Early Access UPS Patch](https://ko-fi.com/api/file-upload/74352d54-1bc8-4797-8b7d-8ef8fd0a6b03/download?transactionId=752973af-7a16-4965-9214-b0b3628c291c)
+
+{: .warning }
+> This is an `Early Access version`, which means it is still a work in progress. As such, it may contain bugs, glitches, or unfinished features. Your feedback and bug reports are immensely valuable in helping us improve the game. Please report any issues you encounter on our [discord server].
+
+```
+What's New!
+
+- Fixed Exp Share breaking in the options menu
+- Fixed flickering move text in double battles
+- Added Exp multiplier in the options menu
+- Fixed broken level scaling 
+- Fixed Synchronize not setting same nature
+- Fixed Mints removing shinyness
+- Fixed Hoothoot & Beldum follower sprites
+- Added GEN 6 followers
+```
+## Early Access Details
+
+- **Frequency of Updates:** Updates for the `Early Access version` may occur frequently, ranging from daily to weekly releases. However, please note that updates are not guaranteed and may occur less frequently or not at all during certain periods.
+
+- **Stability and Stability Updates:** The `Early Access` version may not be as stable as the final release. While we strive to provide a stable experience, there may be occasional crashes or unforeseen issues. We will release stability updates as necessary to address these problems.
+
+- **Possible Version Changes:** It's important to note that the next stable release may not necessarily be `v1.0.8.7`. Depending on the feedback and development progress, there is a possibility that `v1.0.9` or a different version may be released instead. Stay tuned for updates to learn about the latest stable release.
+
+We appreciate your understanding and support as we work towards delivering the best possible gaming experience. Your participation in the `Early Access version` helps shape the final release and ensures that Pokemon Emerald Crest meets the expectations of our dedicated players.
+
 ## [Pokemon Emerald Crest v1.0.8.6 UPS Patch](https://ko-fi.com/api/file-upload/91c1350d-3ad3-4162-951d-ab35968ba302/download?transactionId=9e2882f1-5a6a-4cc3-99df-7b19257d1213)
 
 > `v1.0.9` is taking a bit longer than expected, so here's a small bug-fix release.
