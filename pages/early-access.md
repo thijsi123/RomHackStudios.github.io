@@ -18,18 +18,13 @@ Thank you for choosing Pokemon Emerald Crest! We are excited to offer you the op
 Early Access 
 {: .label .label-yellow }
 
-[Early Access v1.0.8.7](https://ko-fi.com/api/file-upload/74352d54-1bc8-4797-8b7d-8ef8fd0a6b03/download?transactionId=752973af-7a16-4965-9214-b0b3628c291c){: .btn .btn-purple .mr-2 }
+[Early Access v1.0.8.8](https://download1072.mediafire.com/fb9v9b1g0wagqN_SUTCzIIzl7vjZ3Hgut47TrvGGGYmMuLR8LcTZ8hgpGNeuoSBkLVpYsNglrMak3cOzlpTNcc-St5bqgepHdFWtQUPte0BJHEC-wLPVn3JeGkfLfbW0AytkTNJnPcnS1EmxcI2B4KBd4Gw3NF1ntiHSksDvQAEqt0Qn/97d0oip3vmwtds2/EMCrestV1.0.8.8EA.zip){: .btn .btn-purple .mr-2 }
 ```
 What's New!
 
-- Fixed Exp Share breaking in the options menu
-- Fixed flickering move text in double battles
-- Added Exp multiplier in the options menu
-- Fixed broken level scaling 
-- Fixed Synchronize not setting same nature
-- Fixed Mints removing shinyness
-- Fixed Hoothoot & Beldum follower sprites
-- Added GEN 6 followers
+- Fixed Obedience Level
+- Fixed Exp multiplier
+- Fixed and Updated Dynamic trainer party 
 ```
 
 {: .warning }
