@@ -4,7 +4,22 @@ layout: page
 nav_exclude: true
 ---
 
+## [Emerald Crest v1.0.8.8 Early Access UPS Patch](https://download1072.mediafire.com/fb9v9b1g0wagqN_SUTCzIIzl7vjZ3Hgut47TrvGGGYmMuLR8LcTZ8hgpGNeuoSBkLVpYsNglrMak3cOzlpTNcc-St5bqgepHdFWtQUPte0BJHEC-wLPVn3JeGkfLfbW0AytkTNJnPcnS1EmxcI2B4KBd4Gw3NF1ntiHSksDvQAEqt0Qn/97d0oip3vmwtds2/EMCrestV1.0.8.8EA.zip)
+
+
+{: .warning }
+> This is an `Early Access version`, which means it is still a work in progress. As such, it may contain bugs, glitches, or unfinished features. Your feedback and bug reports are immensely valuable in helping us improve the game. Please report any issues you encounter on our [discord server].
+
+```
+What's New!
+
+- Fixed Obedience Level
+- Fixed Exp multiplier
+- Fixed and Updated Dynamic trainer party 
+```
+
 ## [Emerald Crest v1.0.8.7 Early Access UPS Patch](https://ko-fi.com/api/file-upload/74352d54-1bc8-4797-8b7d-8ef8fd0a6b03/download?transactionId=752973af-7a16-4965-9214-b0b3628c291c)
+
 
 {: .warning }
 > This is an `Early Access version`, which means it is still a work in progress. As such, it may contain bugs, glitches, or unfinished features. Your feedback and bug reports are immensely valuable in helping us improve the game. Please report any issues you encounter on our [discord server].
