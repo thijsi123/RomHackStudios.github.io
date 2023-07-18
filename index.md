@@ -65,7 +65,7 @@ What's New!
 🔸And a lot of minor improvements
 ```
 
-## **v1.9.0**
+## **v1.0.9**
 {: .d-inline-block }
 
 33.33% complete
