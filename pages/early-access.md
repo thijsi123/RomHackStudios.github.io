@@ -18,13 +18,13 @@ Thank you for choosing Pokemon Emerald Crest! We are excited to offer you the op
 Early Access 
 {: .label .label-yellow }
 
-[Early Access v1.0.8.8](https://download1072.mediafire.com/fb9v9b1g0wagqN_SUTCzIIzl7vjZ3Hgut47TrvGGGYmMuLR8LcTZ8hgpGNeuoSBkLVpYsNglrMak3cOzlpTNcc-St5bqgepHdFWtQUPte0BJHEC-wLPVn3JeGkfLfbW0AytkTNJnPcnS1EmxcI2B4KBd4Gw3NF1ntiHSksDvQAEqt0Qn/97d0oip3vmwtds2/EMCrestV1.0.8.8EA.zip){: .btn .btn-purple .mr-2 }
+[Early Access v1.0.8.9](https://download942.mediafire.com/xkhetmk23f0g9sH23AGlF9HTppHmYBkr3Sg3iuq6-buOCj1cMhmqcdgyzKcgg0maw_cLStSskDciIs7zsxsIedUSF97xdm6o2R249MZRWH2PBqjnsB5v1sEcUk3l4VKt1g-ltC1PkyLt72huNTF6thm-aAHpoAutWic1Y4eKIn4312hi/2dycqxta23dyc95/EMCrestv1.0.8.9EA.zip){: .btn .btn-purple .mr-2 }
 ```
 What's New!
 
-- Fixed Obedience Level
-- Fixed Exp multiplier
-- Fixed and Updated Dynamic trainer party 
+- Fixed black screen issue with gym leaders
+- Added Option to enable/disable followers
+- Added Gen 7 followers 
 ```
 
 {: .warning }
