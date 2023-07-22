@@ -4,6 +4,15 @@ layout: page
 nav_exclude: true
 ---
 
+## [Emerald Crest v1.0.8.9 Early Access UPS Patch](https://download942.mediafire.com/xkhetmk23f0g9sH23AGlF9HTppHmYBkr3Sg3iuq6-buOCj1cMhmqcdgyzKcgg0maw_cLStSskDciIs7zsxsIedUSF97xdm6o2R249MZRWH2PBqjnsB5v1sEcUk3l4VKt1g-ltC1PkyLt72huNTF6thm-aAHpoAutWic1Y4eKIn4312hi/2dycqxta23dyc95/EMCrestv1.0.8.9EA.zip)
+
+```
+What's New!
+
+- Fixed black screen issue with gym leaders
+- Added Option to enable/disable followers
+- Added Gen 7 followers 
+```
 ## [Emerald Crest v1.0.8.8 Early Access UPS Patch](https://download1072.mediafire.com/fb9v9b1g0wagqN_SUTCzIIzl7vjZ3Hgut47TrvGGGYmMuLR8LcTZ8hgpGNeuoSBkLVpYsNglrMak3cOzlpTNcc-St5bqgepHdFWtQUPte0BJHEC-wLPVn3JeGkfLfbW0AytkTNJnPcnS1EmxcI2B4KBd4Gw3NF1ntiHSksDvQAEqt0Qn/97d0oip3vmwtds2/EMCrestV1.0.8.8EA.zip)
 
 ```
