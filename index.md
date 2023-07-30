@@ -68,7 +68,7 @@ What's New!
 ## **v1.0.9**
 {: .d-inline-block }
 
-41.17% complete
+47.05% complete
 {: .label .label-red }
 
 <html>
@@ -103,7 +103,7 @@ What's New!
         width: 0%;
       }
       100% {
-        width: 41.17%;
+        width: 47.05%;
       }
     }
   </style>
