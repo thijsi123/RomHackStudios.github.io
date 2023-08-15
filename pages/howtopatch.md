@@ -49,18 +49,31 @@ Once you have downloaded the emulator, follow these steps to play Pokemon Emeral
 {: .note }
 > The patch file should end with `.bps` or `.ups` after extraction. If it doesn't, you may have missed a step. Also, after patching the game should end with `.gba`, if it ends with `.txt`, then just remove `.txt` by renaming the file.
 
+# How to Update
+
+- Backup Your Save File:
+
+  - Locate your current game ROM file (e.g., `EmeraldCrestv1.0.8.5.gba`).
+    Make a backup copy of your save file (e.g., `EmeraldCrestv1.0.6.sav`). This is to ensure you don't lose your progress.
+
+- Download the Latest Patch: 
+  - [Download](https://romhackstudios.github.io/)
+
+- Apply the Patch:
+
+  - Follow the steps as above to apply the patch. [click here](https://romhackstudios.github.io/pages/howtopatch.html#pc)
+
+- Rename Your Save File:
+
+  - After applying the patch and creating a new version of the game, rename your old save file (e.g., `EmeraldCrestv1.0.6.sav`) to match the name of the newly patched rom (e.g., `EmeraldCrestv1.0.7.sav`).
+
+- Play the Updated Game:
+
+  - Now you can open the newly patched game ROM (e.g., `EmeraldCrestv1.0.7.gba`) in your emulato.
+   Load your renamed save file (e.g., `EmeraldCrestv1.0.7.sav`) to continue playing from where you left off.
+
 ## Support
 
 If you encounter any issues or have questions about Pokemon Emerald Crest, please contact us through our [discord server].
 
 [discord server]: https://discord.gg/aaghat-s-server-965900074532081674
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('aaghatislive', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support Us',
-    'floating-chat.donateButton.background-color': '#ff5f5f',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
