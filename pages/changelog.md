@@ -4,6 +4,53 @@ layout: page
 nav_exclude: true
 ---
 
+## [Emerald Crest v1.0.9](https://download1583.mediafire.com/lrtcbl6a2pfg3zpwgwXqXDvtNOXRQQ8FPJxNe5DmqJlpn070DwFbkfdFq3CO8cBY9_lIlOTPZHcXMrjyiFag0NoNZpH2qkKQjl7CkNfoVcs0H-acNYr0YL0sz78YMAlBsmOIvmRbzZkn_XtXzRgwGK0EjRZA5n7spAJgJJ_AwzX_Buj7/uoe6kyv7ouq6irq/Crest_v1.0.9.zip)
+
+```
+What's New!
+
+- Added new Map Randomizer in open-world mode (race with friends)
+- Added GEN 9 Pokemon 
+- Added new difficulty modes [Easy/Custom, Normal, Hard]
+- Introduced a new Ranking System.
+- Added more Legendary Pokemon
+- Added in-game notification and anytime access to Spotlight Events
+- Added a code for Rare Candy :candy: (find it in-game!)
+- Added an option to enable/disable followers
+- Added followers up to GEN 8 (Including all forms, except Enamorus and Gen 9)
+- Added egg moves for hisuian mons
+- Added Ultra burst
+- Added the ability to fuse legendaries that can do fusion 
+- Added some new Legends Arceus and GEN 9 moves
+- Added more Wild Boss (200+)
+- Added all legendary Pokemon
+- Added a safe quick run (press B)
+- Register up to 4 items now
+- Update some abilities to Gen 9
+- Added all fossils (smash some rocks!)
+- Updated lots of rewards from various activities
+- Updated all trainer parties, including gym leaders, E4 and Champion.
+- Made wild bosses not stay mega-evolved (same goes for primal)
+- Made static encounters show up as shiny :sparkles: if they are shiny. (If you don't see it as shiny in the overworld, then it won't be one.)
+- Updated the Dexnav, now you can see the silhouette of the unseen mons instead of a **?**
+- Now in story mode HM's work the same way they do in open world mode (of course you need the badges)
+- Updated and organized bag menu
+- Fixed Exp Share breaking in the options menu
+- Fixed flickering move text in double battles
+- Fixed and added Exp Multiplier in the options menu 
+- Fixed broken level scaling 
+- Fixed Synchronize not setting the same nature
+- Fixed Mints removing shininess
+- Fixed several follower sprites
+- Fixed Obedience Level
+- Fixed and Updated Dynamic trainer party 
+- Fixed black screen issue with gym leaders
+- Fixed and Updated many other functions
+- Many more features and fixes
+
+keep an eye out for the roaming Ho0pa! (Hoopa Loves to lead the party!)
+```
+
 ## [Emerald Crest v1.0.8.9 Early Access UPS Patch](https://download942.mediafire.com/xkhetmk23f0g9sH23AGlF9HTppHmYBkr3Sg3iuq6-buOCj1cMhmqcdgyzKcgg0maw_cLStSskDciIs7zsxsIedUSF97xdm6o2R249MZRWH2PBqjnsB5v1sEcUk3l4VKt1g-ltC1PkyLt72huNTF6thm-aAHpoAutWic1Y4eKIn4312hi/2dycqxta23dyc95/EMCrestv1.0.8.9EA.zip)
 
 ```
