@@ -11,7 +11,7 @@ image: /v1.0.9.png
 Thank you for choosing Pokemon Emerald Crest! You can download the latest version of the game below.
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1101397974313074709/1127315767164153938/Adobe_Express_20230709_0034150_1.png" />
+<img src="https://discord.com/channels/1054352283023982653/1080910082285502534/1158036056537583757" />
 </p>
 
 ## **Download**
