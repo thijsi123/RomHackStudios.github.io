@@ -45,7 +45,7 @@ What's New!
 - Added more Wild Boss (**200+**)
 - Added all legendary Pokemon
 - Added a safe quick run (press B)
-- Register up to 4 items now!
+- Register up to 4 items now
 - Update some abilities to Gen 9
 - Added all fossils (smash some rocks!)
 - Updated lots of rewards from various activities
