@@ -30,7 +30,7 @@ Bug Fix
 What's New!
 
 - Added new Map Randomizer in open-world mode (race with friends)
-- Added **GEN 9** Pokemon 
+- Added GEN 9 Pokemon 
 - Added new difficulty modes [Easy/Custom, Normal, Hard]
 - Introduced a new Ranking System.
 - Added more Legendary Pokemon
@@ -42,7 +42,7 @@ What's New!
 - Added Ultra burst
 - Added the ability to fuse legendaries that can do fusion 
 - Added some new Legends Arceus and GEN 9 moves
-- Added more Wild Boss (**200+**)
+- Added more Wild Boss (200+)
 - Added all legendary Pokemon
 - Added a safe quick run (press B)
 - Register up to 4 items now
