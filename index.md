@@ -33,10 +33,10 @@ v1.0.9.1 HotFixes
 - Fixed party screen breaking for some mons
 - Fixed Pladean Wooper type
 - Fixed May breaking nuzlocke, quests, and trainers 
-- Added a potential safety mech preventing soft-locks in map randomizer (open start menu and press L button)
+- Added a safety mech to prevent potential soft-locks in map randomizer (open the start menu and press the L button to escape from soft-locks)
 - Fixed TM's being single use
 - Fixed rock smash issues in Open World mode
-- Fixed Fossils regenerations
+- Fixed Fossil regenerations
 - Fixed Moves descriptions
 - Removed unfinished quests 
 - Fixed some icons
