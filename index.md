@@ -25,9 +25,22 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-[Latest v1.0.9](https://download1583.mediafire.com/lrtcbl6a2pfg3zpwgwXqXDvtNOXRQQ8FPJxNe5DmqJlpn070DwFbkfdFq3CO8cBY9_lIlOTPZHcXMrjyiFag0NoNZpH2qkKQjl7CkNfoVcs0H-acNYr0YL0sz78YMAlBsmOIvmRbzZkn_XtXzRgwGK0EjRZA5n7spAJgJJ_AwzX_Buj7/uoe6kyv7ouq6irq/Crest_v1.0.9.zip){: .btn .btn-purple .mr-2 } [v1.0.8.9 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
+[Latest v1.0.9.1 HotFix!](https://download1652.mediafire.com/kgkpyhhyiqkgpa9D3Tkwmz4EA7yVZT4ld589t-PRh1IdK42BuOY8pyYexqQO5D9JDpoLWF1rZs3QdFSadSEvUU6xHCa_3j0yJZrMG7o-PLkKaQRi56HXX7uUjY6XbUAErzqOTaVaO9AAklQDTNLIpYk6ZDRidx3RFMs_c_i9lZGgVJXJ/qbdyzcsx7q6zgrg/crest_v1.0.9.1.zip){: .btn .btn-purple .mr-2 }
 ```
-What's New!
+What's New! (v1.0.9 + v1.0.9.1 HotFix)
+
+v1.0.9.1 HotFixes
+- Fixed party screen breaking for some mons
+- Fixed Pladean Wooper type
+- Fixed May breaking nuzlocke, quests, and trainers 
+- Added a potential safety mech preventing soft-locks in map randomizer (open start menu and press L button)
+- Fixed TM's being single use
+- Fixed rock smash issues in Open World mode
+- Fixed Fossils regenerations
+- Fixed Moves descriptions
+- Removed unfinished quests 
+- Fixed some icons
+- Few Minor fixes and updates!
 
 - Added new Map Randomizer in open-world mode (race with friends)
 - Added GEN 9 Pokemon 
