@@ -29,7 +29,7 @@ Bug Fix
 ```
 What's New! (v1.0.9 + v1.0.9.2 HotFix)
 
-v1.0.9.1 HotFixes
+v1.0.9.2 HotFixes
 - Fixed Wonder Trade
 - Fixed Nature Mints
 - Fixed Rankings
