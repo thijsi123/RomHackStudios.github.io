@@ -25,7 +25,7 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-[Latest v1.0.9.2 HotFix!](https://download1321.mediafire.com/jbtojrnll1ggEy8T96QZgsg8eu5k8FZlNTDuOUQ9RW9Hc1p5EIwYquKWJvnL7O60GkeyWfHOuDwJC3GdAuimQwTTASC4Nh-KQYQLbgNjzL-RgA3WZCt8hVxU6TJz2mKuSiVm4gfCWoxPNrKOxl-5mFEzwbWvT5C1Kq73LqeWkRxUyWDP7A/51nkn9nfy35yk60/Crest_v1.0.9.2.zip){: .btn .btn-purple .mr-2 }
+[Latest v1.0.9.2 HotFix!](https://download936.mediafire.com/xi6fiwlqz2gg6kYtaF5fzLneGaS6FBkcOxbnMVH21uKDEbgmY3uolp5JIQF4UNYrtfobESgrNqKtzS09I-T6Okv9nUani5k1ZVDOLlHkwP70EIVOEyfaYU-WlBn2tC65dMql6XJHCwDjCgph7NIntVre6vQe2DEpflTWi5uemg5kIRkh0g/bqxuzhb0ob9qkmz/Crest_v1.0.9.2.zip){: .btn .btn-purple .mr-2 }
 ```
 What's New! (v1.0.9 + v1.0.9.2 HotFix)
 
