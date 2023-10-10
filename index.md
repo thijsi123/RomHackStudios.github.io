@@ -25,22 +25,20 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-[Latest v1.0.9.1 HotFix!](https://download1652.mediafire.com/kgkpyhhyiqkgpa9D3Tkwmz4EA7yVZT4ld589t-PRh1IdK42BuOY8pyYexqQO5D9JDpoLWF1rZs3QdFSadSEvUU6xHCa_3j0yJZrMG7o-PLkKaQRi56HXX7uUjY6XbUAErzqOTaVaO9AAklQDTNLIpYk6ZDRidx3RFMs_c_i9lZGgVJXJ/qbdyzcsx7q6zgrg/crest_v1.0.9.1.zip){: .btn .btn-purple .mr-2 }
+[Latest v1.0.9.2 HotFix!](https://download1321.mediafire.com/jbtojrnll1ggEy8T96QZgsg8eu5k8FZlNTDuOUQ9RW9Hc1p5EIwYquKWJvnL7O60GkeyWfHOuDwJC3GdAuimQwTTASC4Nh-KQYQLbgNjzL-RgA3WZCt8hVxU6TJz2mKuSiVm4gfCWoxPNrKOxl-5mFEzwbWvT5C1Kq73LqeWkRxUyWDP7A/51nkn9nfy35yk60/Crest_v1.0.9.2.zip){: .btn .btn-purple .mr-2 }
 ```
-What's New! (v1.0.9 + v1.0.9.1 HotFix)
+What's New! (v1.0.9 + v1.0.9.2 HotFix)
 
 v1.0.9.1 HotFixes
-- Fixed party screen breaking for some mons
-- Fixed Pladean Wooper type
-- Fixed May breaking nuzlocke, quests, and trainers 
-- Added a safety mech to prevent potential soft-locks in map randomizer (open the start menu and press the L button to escape from soft-locks)
-- Fixed TM's being single use
-- Fixed rock smash issues in Open World mode
-- Fixed Fossil regenerations
-- Fixed Moves descriptions
-- Removed unfinished quests 
-- Fixed some icons
-- Few Minor fixes and updates!
+- Fixed Wonder Trade
+- Fixed Nature Mints
+- Fixed Rankings
+- Fixed Spotlight Event
+- Added missing evo items
+- Fixed some static encounters breaking
+- Fixed some nuzlocke bugs
+- Fixed some followers
+- Many more Minor fixes and updates!
 
 - Added new Map Randomizer in open-world mode (race with friends)
 - Added GEN 9 Pokemon 
