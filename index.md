@@ -82,10 +82,10 @@ v1.0.9.2 HotFixes
 keep an eye out for the roaming Ho0pa! (Hoopa Loves to lead the party!)
 ```
 
-## **v1.0.9**
+## **v1.1**
 {: .d-inline-block }
 
-100% complete
+8% complete
 {: .label .label-red }
 
 <html>
@@ -120,7 +120,7 @@ keep an eye out for the roaming Ho0pa! (Hoopa Loves to lead the party!)
         width: 0%;
       }
       100% {
-        width: 100%;
+        width: 8%;
       }
     }
   </style>
