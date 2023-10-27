@@ -18,13 +18,14 @@ Thank you for choosing Pokemon Emerald Crest! We are excited to offer you the op
 Early Access 
 {: .label .label-yellow }
 
-[Early Access v1.0.8.9](https://download942.mediafire.com/xkhetmk23f0g9sH23AGlF9HTppHmYBkr3Sg3iuq6-buOCj1cMhmqcdgyzKcgg0maw_cLStSskDciIs7zsxsIedUSF97xdm6o2R249MZRWH2PBqjnsB5v1sEcUk3l4VKt1g-ltC1PkyLt72huNTF6thm-aAHpoAutWic1Y4eKIn4312hi/2dycqxta23dyc95/EMCrestv1.0.8.9EA.zip){: .btn .btn-purple .mr-2 }
+[Early Access v1.0.9.3](https://download942.mediafire.com/gbn4zqz5trtggBuLTQMXVDFHRq9G0NlgZEwFJ0gJXvnfmFQBNDR0w4a8KrSfDnAQOTI07pL7j4lAkd2LHOUtAqGD5kD5P9UDJAWZ2p2PkhtPSPv8QH5rHeh5zzokxcWCBbpy5xRJEaVG6Hq5KfR0ujn1Fl4K5xVrQ9eO3Aw8gBtxZtQ3Bw/mdy5l9ewok8opcm/Crest_v1.0.9.3+EA.zip){: .btn .btn-purple .mr-2 }
 ```
 What's New!
 
-- Fixed black screen issue with gym leaders
-- Added Option to enable/disable followers
-- Added Gen 7 followers 
+- Made Hoopa summoning legends easier
+- Fixed mints changing gender
+- Fixed Inculde Legendary options
+- Updated some Gen 9 sprites 
 ```
 
 {: .warning }
