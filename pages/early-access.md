@@ -24,7 +24,7 @@ What's New!
 
 - Made Hoopa summoning legends easier
 - Fixed mints changing gender
-- Fixed Inculde Legendary options
+- Fixed Include Legendary option
 - Updated some Gen 9 sprites 
 ```
 
