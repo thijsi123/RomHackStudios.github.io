@@ -25,7 +25,7 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-[Latest v1.0.9.2 HotFix!](https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242){: .btn .btn-purple .mr-2 }
+[Latest v1.0.9.2 HotFix!](https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242){: .btn .btn-purple .mr-2 } [v1.0.9.3 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
 ```
 What's New! (v1.0.9 + v1.0.9.2 HotFix)
 
