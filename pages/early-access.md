@@ -18,14 +18,16 @@ Thank you for choosing Pokemon Emerald Crest! We are excited to offer you the op
 Early Access 
 {: .label .label-yellow }
 
-[Early Access v1.0.9.3](https://download942.mediafire.com/gbn4zqz5trtggBuLTQMXVDFHRq9G0NlgZEwFJ0gJXvnfmFQBNDR0w4a8KrSfDnAQOTI07pL7j4lAkd2LHOUtAqGD5kD5P9UDJAWZ2p2PkhtPSPv8QH5rHeh5zzokxcWCBbpy5xRJEaVG6Hq5KfR0ujn1Fl4K5xVrQ9eO3Aw8gBtxZtQ3Bw/mdy5l9ewok8opcm/Crest_v1.0.9.3+EA.zip){: .btn .btn-purple .mr-2 }
+[Early Access v1.0.9.4](https://download1072.mediafire.com/3xhcd2s6vzag7FDrQ4Gr5PzafOaqm2pvV2NAIlTz5lo17KB56iikwMaUgDnPgQruIeDHUgsy3Z5QmBLjOtSxPjwUfXUjEaNKmTWfIRNT8VEChgzSj7lChQ8OVd3if4TUYZOh49MozLCCtZTCzC94tFlOEP7wofObQUak6as-R601/enjn6bpguccf3c8/Crest_v1.0.9.4.zip){: .btn .btn-purple .mr-2 }
 ```
-What's New!
+What's Hot:
+- DexNav in Dark Caves: Explore dark caves with the full functionality of DexNav – no more stumbling in the dark!
+- Battle Bling: Bugs? Squashed! Weak Armor, multi-hit moves – all fixed up for an ultra-smooth, jaw-dropping battle experience. Plus, snazzy move animations for that extra pizzazz!
+- Glamorous Sprite Makeovers: Rabsca, Rellor, and the rest of the Gen 9 Pokémon just got a dazzling makeover! Brace yourselves for jaw-dropping, fresh new looks!
+- Level Up Your Strategy with 'Zero to Hero': Unveiling the Zero to Hero ability – it's a game-changer for your strategic toolbox!
 
-- Made Hoopa summoning legends easier
-- Fixed mints changing gender
-- Fixed Include Legendary option
-- Updated some Gen 9 sprites 
+- More Thrills Await:
+- Mystery Gifts & Portals Unveiled: Bid farewell to those glitchy Hoopa portals! We've got new Mystery Gift codes and turbo-charged portal handling for an adventure without hiccups.
 ```
 
 {: .warning }
