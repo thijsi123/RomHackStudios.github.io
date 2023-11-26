@@ -18,7 +18,7 @@ Thank you for choosing Pokemon Emerald Crest! We are excited to offer you the op
 Early Access 
 {: .label .label-yellow }
 
-[Early Access v1.0.9.4](https://download1072.mediafire.com/3xhcd2s6vzag7FDrQ4Gr5PzafOaqm2pvV2NAIlTz5lo17KB56iikwMaUgDnPgQruIeDHUgsy3Z5QmBLjOtSxPjwUfXUjEaNKmTWfIRNT8VEChgzSj7lChQ8OVd3if4TUYZOh49MozLCCtZTCzC94tFlOEP7wofObQUak6as-R601/enjn6bpguccf3c8/Crest_v1.0.9.4.zip){: .btn .btn-purple .mr-2 }
+[Early Access v1.0.9.4](https://download1501.mediafire.com/tvqc7a205cvgxNIhA49PzwvZQh-SsfsouneamnbRp7YoemdjvytOeHNrUYr1lVptenY7kO6M-e-mthflHLwhAxNEvd7ofm5_kST5BlWs8YLt75gnCwj-XMYEuGFBXGdrmCl2gBQTNuWcATu76UJE4yVFHYjHUfmpTd_xr1yf6vZG/3as7j3alkjwrqxq/Crest_v1.0.9.4+EA.zip){: .btn .btn-purple .mr-2 }
 ```
 What's Hot:
 - DexNav in Dark Caves: Explore dark caves with the full functionality of DexNav – no more stumbling in the dark!
