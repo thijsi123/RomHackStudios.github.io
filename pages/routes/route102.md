@@ -39,20 +39,20 @@ TABLE OF CONTENTS
 
 <details open markdown="block">
 
-| Image                                                                                      | Pokemon             | Levels | Rate|
-|:-------------------------------------------------------------------------------------------|:--------------------|:-------|:----|
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/skwovet.png">                | Skwovet             | 3-6    | 20% |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/rookidee.png">               | Rookidee            | 4-6    | 20% |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/chewtle.png">                | Chewtle             | 4-7    | 10% |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/yamper.png">                 | Yamper              | 5-7    | 10% |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/purrloin.png">               | Purrloin            | 5-6    | 10% |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/wooloo.png">                 | Wooloo              | 5-7    | 10% |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/ralts.png">                  | Ralts               | 5-7    | 5%  |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/nickit.png">                 | Nickit              | 3-3    | 5%  |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/skiddo.png">                 | Skiddo              | 4-4    | 4%  |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/zigzagoon-galarian.png">     | Zigzagoon-Galarian  | 4-4    | 4%  |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/absol.png">                  | Absol               | 4-4    | 1%  |  
-| <img src="https://img.pokemondb.net/sprites/sword-shield/icon/sunkern.png">                | Sunkern             | 3-3    | 1%  |  
+| Image | Pokemon | Levels | Rate |
+|:-----:|:-------:|:------:|:----:|
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/819.png"> | SKWOVET | 3-6 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/821.png"> | ROOKIDEE | 4-6 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/833.png"> | CHEWTLE | 4-7 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/835.png"> | YAMPER | 5-7 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png"> | PURRLOIN | 5-6 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png"> | WOOLOO | 5-7 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png"> | RALTS | 5-7 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/827.png"> | NICKIT | 3-3 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png"> | TADBULB | 4-4 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/926.png"> | FIDOUGH | 4-4 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png"> | ABSOL | 4-4 | 10% |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png"> | SUNKERN | 3-3 | 10% |
 
 </details>
 
