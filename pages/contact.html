@@ -3,17 +3,71 @@
 <head>
   <meta charset="UTF-8">
   <title>Contact Us</title>
+  <style>
+    /* Basic CSS for the form styling */
+    .contact-form {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    textarea {
+      width: 100%;
+      padding: 8px;
+      border-radius: 3px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 3px;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
 </head>
 <body>
-  <h1>Contact Us</h1>
-  <form action="https://formspree.io/aaghatpkmn@gmail.com" method="POST">
-    <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name" required><br>
-    <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email" required><br>
-    <label for="message">Message:</label><br>
-    <textarea id="message" name="message" required></textarea><br>
-    <input type="submit" value="Submit">
+
+  <form action="https://formspree.io/f/xvojezkg" method="POST" class="contact-form">
+    <div class="form-group">
+      <label for="name">Your Name:</label>
+      <input type="text" id="name" name="name" required>
+    </div>
+    <div class="form-group">
+      <label for="email">Your Email:</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+    <div class="form-group">
+      <label for="subject">Subject:</label>
+      <input type="text" id="subject" name="subject" required>
+    </div>
+    <div class="form-group">
+      <label for="message">Your Message:</label>
+      <textarea id="message" name="message" required></textarea>
+    </div>
+    <button type="submit">Send</button>
   </form>
+
 </body>
 </html>
