@@ -4,38 +4,72 @@
   <meta charset="UTF-8">
   <title>Contact Us</title>
   <style>
-    /* Basic CSS for the form styling */
-    .contact-form {
-      max-width: 400px;
-      margin: 0 auto;
+    /* Updated CSS for improved form styling */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+    }
+
+    .contact-text {
+      flex: 1;
+      text-align: center;
       padding: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      background-color: #f9f9f9;
+    }
+
+    .contact-form {
+      flex: 1;
+      max-width: 400px;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      background-color: #ffffff;
     }
 
     .form-group {
-      margin-bottom: 15px;
+      margin-bottom: 20px;
     }
 
     label {
       display: block;
-      margin-bottom: 5px;
+      margin-bottom: 8px;
+      font-weight: bold;
     }
 
     input[type="text"],
     input[type="email"],
     textarea {
-      width: 100%;
-      padding: 8px;
-      border-radius: 3px;
+      width: calc(100% - 20px);
+      padding: 10px;
+      border-radius: 5px;
       border: 1px solid #ccc;
+      transition: border-color 0.3s ease;
+    }
+
+    input[type="text"]:focus,
+    input[type="email"]:focus,
+    textarea:focus {
+      border-color: #007bff;
     }
 
     button {
-      padding: 10px 20px;
+      width: 100%;
+      padding: 12px;
       border: none;
-      border-radius: 3px;
+      border-radius: 5px;
       background-color: #007bff;
       color: white;
       cursor: pointer;
@@ -49,25 +83,32 @@
 </head>
 <body>
 
-  <form action="https://formspree.io/f/xvojezkg" method="POST" class="contact-form">
-    <div class="form-group">
-      <label for="name">Your Name:</label>
-      <input type="text" id="name" name="name" required>
+  <div class="content">
+    <div class="contact-text">
+      <h1>Contact Us</h1>
+      <p>Feel free to get in touch with us!</p>
     </div>
-    <div class="form-group">
-      <label for="email">Your Email:</label>
-      <input type="email" id="email" name="email" required>
-    </div>
-    <div class="form-group">
-      <label for="subject">Subject:</label>
-      <input type="text" id="subject" name="subject" required>
-    </div>
-    <div class="form-group">
-      <label for="message">Your Message:</label>
-      <textarea id="message" name="message" required></textarea>
-    </div>
-    <button type="submit">Send</button>
-  </form>
+
+    <form action="https://formspree.io/f/xvojezkg" method="POST" class="contact-form">
+      <div class="form-group">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Your Email:</label>
+        <input type="email" id="email" name="email" required>
+      </div>
+      <div class="form-group">
+        <label for="subject">Subject:</label>
+        <input type="text" id="subject" name="subject" required>
+      </div>
+      <div class="form-group">
+        <label for="message">Your Message:</label>
+        <textarea id="message" name="message" required></textarea>
+      </div>
+      <button type="submit">Send</button>
+    </form>
+  </div>
 
 </body>
 </html>
