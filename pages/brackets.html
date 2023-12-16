@@ -1,1 +1,41 @@
-<iframe src="https://challonge.com/51q0f55x/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emerald Crest First Tournament</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .iframe-container {
+      position: relative;
+      width: 100%;
+      padding-bottom: 75%; /* Aspect ratio of 4:3 for the iframe */
+      margin-bottom: 30px; /* Add space below the iframe */
+    }
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Media query for smaller screens */
+    @media screen and (max-width: 768px) {
+      .iframe-container {
+        padding-bottom: 100%; /* Adjust aspect ratio for smaller screens */
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="iframe-container">
+    <iframe src="https://challonge.com/emerald_crest_first_tourney/module" frameborder="0" allowtransparency="true"></iframe>
+  </div>
+</body>
+</html>
