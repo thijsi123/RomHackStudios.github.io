@@ -8,6 +8,21 @@
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
     }
 
     .iframe-container {
@@ -15,6 +30,9 @@
       width: 100%;
       padding-bottom: 75%; /* Aspect ratio of 4:3 for the iframe */
       margin-bottom: 30px; /* Add space below the iframe */
+      overflow: hidden;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
     iframe {
@@ -23,10 +41,15 @@
       left: 0;
       width: 100%;
       height: 100%;
+      border: none;
     }
 
     /* Media query for smaller screens */
     @media screen and (max-width: 768px) {
+      .container {
+        padding: 10px;
+      }
+
       .iframe-container {
         padding-bottom: 100%; /* Adjust aspect ratio for smaller screens */
       }
@@ -34,8 +57,11 @@
   </style>
 </head>
 <body>
-  <div class="iframe-container">
-    <iframe src="https://challonge.com/51q0f55x/module" frameborder="0" allowtransparency="true"></iframe>
+  <div class="container">
+    <h1>Emerald Crest First Tournament</h1>
+    <div class="iframe-container">
+      <iframe src="https://challonge.com/51q0f55x/module" frameborder="0" allowtransparency="true"></iframe>
+    </div>
   </div>
 </body>
 </html>
