@@ -24,14 +24,22 @@ Bug Fix
 {: .label .label-yellow }
 
 
-<button onclick="testClick()" class="btn btn-purple mr-2">Download Latest Version</button>
+{% include download_button.html %}
 
 <script>
-  function testClick() {
-    alert("Button clicked!");
+  function showLightbox() {
+    document.getElementById("lightbox").style.display = "block";
+    document.getElementById("loading").style.display = "block";
+    setTimeout(function() {
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("downloadButton").classList.remove("hidden");
+    }, 10000); // Show download button after 10 seconds
   }
-</script>
 
+  document.getElementById("startDownload").addEventListener("click", function() {
+    window.location.href = "https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242";
+  });
+</script>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
