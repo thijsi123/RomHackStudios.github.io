@@ -20,6 +20,19 @@ Early Access
 
 [Early Access v1.0.9.4](https://download1501.mediafire.com/tvqc7a205cvgxNIhA49PzwvZQh-SsfsouneamnbRp7YoemdjvytOeHNrUYr1lVptenY7kO6M-e-mthflHLwhAxNEvd7ofm5_kST5BlWs8YLt75gnCwj-XMYEuGFBXGdrmCl2gBQTNuWcATu76UJE4yVFHYjHUfmpTd_xr1yf6vZG/3as7j3alkjwrqxq/Crest_v1.0.9.4+EA.zip){: .btn .btn-purple .mr-2 }
 ```
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<!-- RHS EA 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4982648182"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 What's Hot:
 - DexNav in Dark Caves: Explore dark caves with the full functionality of DexNav – no more stumbling in the dark!
 - Battle Bling: Bugs? Squashed! Weak Armor, multi-hit moves – all fixed up for an ultra-smooth, jaw-dropping battle experience. Plus, snazzy move animations for that extra pizzazz!
@@ -33,6 +46,19 @@ What's Hot:
 {: .warning }
 > This is an `Early Access version`, which means it is still a work in progress. As such, it may contain bugs, glitches, or unfinished features. Your feedback and bug reports are immensely valuable in helping us improve the game. Please report any issues you encounter on our [discord server].
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<!-- RHS EA 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="9708361259"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Early Access Details
 
 - **Frequency of Updates:** Updates for the `Early Access version` may occur frequently, ranging from daily to weekly releases. However, please note that updates are not guaranteed and may occur less frequently or not at all during certain periods.
@@ -43,11 +69,37 @@ What's Hot:
 
 We appreciate your understanding and support as we work towards delivering the best possible gaming experience. Your participation in the `Early Access version` helps shape the final release and ensures that Pokemon Emerald Crest meets the expectations of our dedicated players.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<!-- RHS EA 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="9708361259"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Installation Instructions
 
 To play Pokemon Emerald Crest, you will need to have a Game Boy Advance emulator installed on your device. We recommend using [Mgba](https://mgba.io/downloads.html) for Windows, Linux, and Mac, or [My Boy!](https://play.google.com/store/apps/details?id=com.fastemulator.gba) for Android devices.
 
 Once you have downloaded the emulator, follow the steps in our [How To Patch](https://romhackstudios.github.io/pages/howtopatch.html) guide to apply the patch and play Pokemon Emerald Crest.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<!-- RHS EA 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="9708361259"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Support
 
