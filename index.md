@@ -26,6 +26,19 @@ Bug Fix
 {: .label .label-yellow }
 
 [Latest v1.0.9.2 HotFix!](https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242){: .btn .btn-purple .mr-2 } [v1.0.9.4 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4808168615"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ```
 What's New! (v1.0.9 + v1.0.9.2 HotFix)
 
