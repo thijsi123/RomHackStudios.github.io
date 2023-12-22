@@ -196,10 +196,18 @@ Major Update
 
 To play Pokemon Emerald Crest, you will need to have a Game Boy Advance emulator installed on your device. We recommend using [Mgba](https://mgba.io/downloads.html) for Windows, Linux, and Mac, or [My Boy!](https://play.google.com/store/apps/details?id=com.fastemulator.gba) for Android devices.
 
-
-
-
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<!-- RHS main INstructions -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="6247628399"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Once you have downloaded the emulator, follow these steps in [How To Patch](https://romhackstudios.github.io/pages/howtopatch.html) to play Pokemon Emerald Crest
 
