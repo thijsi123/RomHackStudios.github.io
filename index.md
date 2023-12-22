@@ -23,33 +23,8 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-<div id="lightbox" class="lightbox" style="display: none;">
-  <div class="loading" id="loading" style="display: block;">
-    Loading...
-  </div>
-  <div class="hidden" id="downloadButton">
-    <a href="#" id="startDownload" class="btn btn-purple">Start Download</a>
-  </div>
-</div>
 
-<button onclick="showLightbox()" class="btn btn-purple mr-2">Download Latest Version</button>
-
-<script>
-function showLightbox() {
-  document.getElementById("lightbox").style.display = "block";
-  document.getElementById("loading").style.display = "block";
-  setTimeout(showDownloadButton, 10000); // Show download button after 10 seconds
-}
-
-function showDownloadButton() {
-  document.getElementById("loading").style.display = "none";
-  document.getElementById("downloadButton").classList.remove("hidden");
-}
-
-document.getElementById("startDownload").addEventListener("click", function() {
-  window.location.href = "https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242";
-});
-</script>
+{% include download_button.html %}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
