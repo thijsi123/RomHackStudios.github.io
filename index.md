@@ -94,6 +94,18 @@ v1.0.9.2 HotFixes
 
 keep an eye out for the roaming Ho0pa! (Hoopa Loves to lead the party!)
 ```
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<!-- RHS main side -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="1990433582"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **v1.1**
 {: .d-inline-block }
