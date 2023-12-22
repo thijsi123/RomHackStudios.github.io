@@ -24,7 +24,14 @@ Bug Fix
 {: .label .label-yellow }
 
 
-{% include download_button.html %}
+<button onclick="testClick()" class="btn btn-purple mr-2">Download Latest Version</button>
+
+<script>
+  function testClick() {
+    alert("Button clicked!");
+  }
+</script>
+
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
