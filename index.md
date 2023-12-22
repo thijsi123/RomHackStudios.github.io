@@ -7,7 +7,6 @@ image: /v1.0.9.png
 ---
 
 # **Pokemon Emerald Crest**
-
 Thank you for choosing Pokemon Emerald Crest! You can download the latest version of the game below.
 
 <p align="center">
@@ -19,27 +18,12 @@ Thank you for choosing Pokemon Emerald Crest! You can download the latest versio
 
 New Release 
 {: .label .label-green }
+{: .d-inline-block }
 
 Bug Fix
 {: .label .label-yellow }
 
-
-{% include download_button.html %}
-
-<script>
-  function showLightbox() {
-    document.getElementById("lightbox").style.display = "block";
-    document.getElementById("loading").style.display = "block";
-    setTimeout(function() {
-      document.getElementById("loading").style.display = "none";
-      document.getElementById("downloadButton").classList.remove("hidden");
-    }, 10000); // Show download button after 10 seconds
-  }
-
-  document.getElementById("startDownload").addEventListener("click", function() {
-    window.location.href = "https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242";
-  });
-</script>
+[Latest v1.0.9.2 HotFix!](https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242){: .btn .btn-purple .mr-2 } [v1.0.9.4 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
