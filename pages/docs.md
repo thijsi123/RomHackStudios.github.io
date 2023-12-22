@@ -11,6 +11,18 @@ This documentation page is designed to provide you with all the information you 
 
 So grab your Pokeballs, pack your bags, and get ready to embark on an epic journey through the Hoenn region in Pokemon Emerald Crest!
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 TABLE OF CONTENTS
@@ -30,6 +42,18 @@ The Hoenn Region was created after Primal Groudon and Primal Kyogre were formed.
 ## Notable locations
 
 Hoenn has sixteen cities and towns, including a Pokémon League. Since the majority of the cities and towns of Hoenn are immersed into nature, there aren't many large cities comparable to Unova's Castelia City or Kalos's Lumiose City, with the largest city being Lilycove City/Mauville City.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 The Hoenn region has 34 different routes, which are passages permitting Trainers to travel from one location to the next with relative ease. Much like Sinnoh after it, Hoenn's routes are numbered so that they don't follow sequence directly from previously-known regions' routes. Routes in Hoenn are numbered from 101 to 134. Compared to other regions, Hoenn features an abundance of sea routes. This gives the impression that the Hoenn region is half-water and half-land, which references the battle of Groudon and Kyogre.
 
@@ -59,13 +83,48 @@ The Hoenn region is unique and famous for its tropical-like environments. The re
 - Battle Resort
 </details>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 ### Routes 
 
 Routes in Hoenn number are numbered as 101-134, breaking the former pattern set up by Kanto and Johto. This is presumably to discourage the idea of being able to travel back to either region after completion of the game, as was done in Generation II and as a mirror of the fact that Japan's road system possesses a similar gap. Some of the routes have differing weather depending on the day they are traveled on.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <details close markdown="block">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 - [Route 101](https://romhackstudios.github.io/pages/routes/route101.html)
 - [Route 102](https://romhackstudios.github.io/pages/routes/route102.html)
 - Route 103
@@ -104,9 +163,31 @@ Routes in Hoenn number are numbered as 101-134, breaking the former pattern set 
 </details>
 
 ---
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Landmarks 
 <details close markdown="block">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 - Petalburg Woods
 - Rusturf Tunnel
 - Island Cave
@@ -153,6 +234,17 @@ Routes in Hoenn number are numbered as 101-134, breaking the former pattern set 
   
 ### Facilities 
 <details close markdown="block">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 - Contest Hall
 - Battle Maison
 - Battle Tower
@@ -160,6 +252,17 @@ Routes in Hoenn number are numbered as 101-134, breaking the former pattern set 
 </details>
 
 ---
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4072891190"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Support
 
