@@ -11,7 +11,7 @@ image: /v1.0.9.png
 Thank you for choosing Pokemon Emerald Crest! You can download the latest version of the game below.
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1080910082285502534/1177453359385542686/Adobe_Express_20231124_0904290_1.png?ex=65728fe4&is=65601ae4&hm=0ff19710acd5e00a7c821bebf5fc7108f85b7750fae2e4d8027b9e4e62e3ff07&" />
+  <img src="https://media.discordapp.net/attachments/1080910082285502534/1177453359385542686/Adobe_Express_20231124_0904290_1.png?ex=65728fe4&is=65601ae4&hm=0ff19710acd5e00a7c821bebf5fc7108f85b7750fae2e4d8027b9e4e62e3ff07&" />
 </p>
 
 ## **Download**
@@ -32,15 +32,14 @@ Bug Fix
   </div>
 </div>
 
-<a href="javascript:void(0);" onclick="showLightbox()" class="btn btn-purple mr-2">Latest v1.0.9.2 HotFix!</a>
-<a href="javascript:void(0);" onclick="showLightbox()" class="btn btn-blue">v1.0.9.4 EA</a>
+<button id="downloadBtn" class="btn btn-purple mr-2">Download</button>
 
 <script>
-function showLightbox() {
+document.getElementById("downloadBtn").addEventListener("click", function() {
   document.getElementById("lightbox").style.display = "block";
   document.getElementById("loading").style.display = "block";
   setTimeout(showDownloadButton, 10000); // Show download button after 10 seconds
-}
+});
 
 function showDownloadButton() {
   document.getElementById("loading").style.display = "none";
@@ -63,7 +62,6 @@ document.getElementById("startDownload").addEventListener("click", function() {
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 ```
 What's New! (v1.0.9 + v1.0.9.2 HotFix)
