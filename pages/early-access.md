@@ -19,7 +19,7 @@ Early Access
 {: .label .label-yellow }
 
 [Early Access v1.0.9.4](https://download1501.mediafire.com/tvqc7a205cvgxNIhA49PzwvZQh-SsfsouneamnbRp7YoemdjvytOeHNrUYr1lVptenY7kO6M-e-mthflHLwhAxNEvd7ofm5_kST5BlWs8YLt75gnCwj-XMYEuGFBXGdrmCl2gBQTNuWcATu76UJE4yVFHYjHUfmpTd_xr1yf6vZG/3as7j3alkjwrqxq/Crest_v1.0.9.4+EA.zip){: .btn .btn-purple .mr-2 }
-```
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
 <!-- RHS EA 1 -->
@@ -32,7 +32,7 @@ Early Access
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+```
 What's Hot:
 - DexNav in Dark Caves: Explore dark caves with the full functionality of DexNav – no more stumbling in the dark!
 - Battle Bling: Bugs? Squashed! Weak Armor, multi-hit moves – all fixed up for an ultra-smooth, jaw-dropping battle experience. Plus, snazzy move animations for that extra pizzazz!
