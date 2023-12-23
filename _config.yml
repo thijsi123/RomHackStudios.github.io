@@ -32,4 +32,6 @@ callouts:
   warning:
     title: Warning
     color: red
-    
+
+    ga_tracking: G-39V22GPEHQ
+    ga_tracking_anonymize_ip: true
