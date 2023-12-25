@@ -46,7 +46,6 @@
     }
   </style>
   <script>
-    // Your randomSeeded function
     const ISO_RANDOMIZE1 = (val) => 1103515245 * val + 24691;
 
     function randomSeeded(value) {
@@ -955,21 +954,26 @@
 
       const dropdown = document.getElementById("pokemonDropdown");
 
-      // Create dropdown options
       Object.keys(pokemonData).forEach((pokemon) => {
         const option = document.createElement("option");
-        option.value = pokemonData[pokemon]; // Assign the seed as the value
+        option.value = pokemonData[pokemon];
         option.textContent = pokemon;
         dropdown.appendChild(option);
       });
     });
 
-    function generateCode() {
-      const dropdown = document.getElementById("pokemonDropdown");
-      const selectedSeed = dropdown.value;
-      const generatedCode = randomSeeded(selectedSeed);
+  function generateCode() {
+    const dropdown = document.getElementById("pokemonDropdown");
+    const selectedSeed = dropdown.value;
+    const generatedCode = randomSeeded(selectedSeed);
+
+    document.getElementById("generatedCode").innerText = "Generating ticket id please wait...";
+
+    setTimeout(function() {
       document.getElementById("generatedCode").innerText = "Ticket Id: " + generatedCode;
-    }
+    }, 3000);
+  }
+
   </script>
 </head>
 <body>
