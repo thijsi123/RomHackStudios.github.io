@@ -17,7 +17,7 @@ nav_order: 4
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<iframe src="https://romhackstudios.github.io/pages/wildencounters.html" width="100%" height="790px" frameBorder="0" style="border: 0;"></iframe>
+<iframe src="https://romhackstudios.github.io/pages/wildencounters.html" width="100%" height="200px" frameBorder="0" style="border: 0;"></iframe>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
 <!-- Wild encounters -->
