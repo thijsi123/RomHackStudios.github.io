@@ -27,7 +27,7 @@ nav_order: 5
 
 ## How To Use
 
-an example gif showcasing how to redeem using the ticked id generated for Charmander
+An example gif showcasing how to redeem using the ticked id generated for Charmander
 
 ![emc-1 0 9 5 RHS](https://github.com/RomHackStudios/RomHackStudios.github.io/assets/109757010/bf13e62b-e9f7-40d7-99a7-ca434a80f589)
 
