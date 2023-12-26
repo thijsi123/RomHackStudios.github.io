@@ -7,7 +7,7 @@ nav_order: 5
 # Spotlight Events
 
 - Currently, only the base evo Pokemon are available, i.e., you can generate spotlight events for Pichu and not for Pikachu or Raichu.
-- Regional forms aren't available so are mythical or legendaries but they will be unlocked on special events [you won't have to update your game for them]
+- Regional forms aren't available, so are mythical and legendaries but they will be unlocked on special events [you won't have to update your game for them]
 - Starting from gen 2 each gen is unlocked with the number of badges you have obtained!
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
