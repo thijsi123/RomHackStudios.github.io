@@ -21,6 +21,10 @@ nav_order: 5
 
 <iframe src="https://romhackstudios.github.io/pages/spotlight-gen.html" width="100%" height="400px" frameBorder="0" style="border: 0;"></iframe>
 
+## How To Use
+
+![emc-1 0 9 5 RHS](https://github.com/RomHackStudios/RomHackStudios.github.io/assets/109757010/bf13e62b-e9f7-40d7-99a7-ca434a80f589)
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
 <!-- spotlight -->
