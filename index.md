@@ -13,85 +13,8 @@ Thank you for choosing Pokemon Emerald Crest! You can download the latest versio
 <img src="https://media.discordapp.net/attachments/1080910082285502534/1177453359385542686/Adobe_Express_20231124_0904290_1.png?ex=65728fe4&is=65601ae4&hm=0ff19710acd5e00a7c821bebf5fc7108f85b7750fae2e4d8027b9e4e62e3ff07&" />
 </p>
 
-## **Download**
-{: .d-inline-block }
+[Create Spotlight Events](https://romhackstudios.github.io/pages/spotlight.html){: .btn .btn-green }
 
-New Release 
-{: .label .label-green }
-{: .d-inline-block }
-
-Bug Fix
-{: .label .label-yellow }
-
-[Latest v1.0.9.2 HotFix!](https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242){: .btn .btn-purple .mr-2 } [v1.0.9.4 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4829462676030982"
-     data-ad-slot="4808168615"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-```
-What's New! (v1.0.9 + v1.0.9.2 HotFix)
-
-v1.0.9.2 HotFixes
-- Fixed Wonder Trade
-- Fixed Nature Mints
-- Fixed Rankings
-- Fixed Spotlight Event
-- Added missing evo items
-- Fixed some static encounters breaking
-- Fixed some nuzlocke bugs
-- Fixed some followers
-- Many more Minor fixes and updates!
-
-- Added new Map Randomizer in open-world mode (race with friends)
-- Added GEN 9 Pokemon 
-- Added new difficulty modes [Easy/Custom, Normal, Hard]
-- Introduced a new Ranking System.
-- Added more Legendary Pokemon
-- Added in-game notification and anytime access to Spotlight Events
-- Added a code for Rare Candy :candy: (find it in-game!)
-- Added an option to enable/disable followers
-- Added followers up to GEN 8 (Including all forms, except Enamorus and Gen 9)
-- Added egg moves for hisuian mons
-- Added Ultra burst
-- Added the ability to fuse legendaries that can do fusion 
-- Added some new Legends Arceus and GEN 9 moves
-- Added more Wild Boss (200+)
-- Added all legendary Pokemon
-- Added a safe quick run (press B)
-- Register up to 4 items now
-- Update some abilities to Gen 9
-- Added all fossils (smash some rocks!)
-- Updated lots of rewards from various activities
-- Updated all trainer parties, including gym leaders, E4 and Champion.
-- Made wild bosses not stay mega-evolved (same goes for primal)
-- Made static encounters show up as shiny :sparkles: if they are shiny. (If you don't see it as shiny in the overworld, then it won't be one.)
-- Updated the Dexnav, now you can see the silhouette of the unseen mons instead of a **?**
-- Now in story mode HM's work the same way they do in open world mode (of course you need the badges)
-- Updated and organized bag menu
-- Fixed Exp Share breaking in the options menu
-- Fixed flickering move text in double battles
-- Fixed and added Exp Multiplier in the options menu 
-- Fixed broken level scaling 
-- Fixed Synchronize not setting the same nature
-- Fixed Mints removing shininess
-- Fixed several follower sprites
-- Fixed Obedience Level
-- Fixed and Updated Dynamic trainer party 
-- Fixed black screen issue with gym leaders
-- Fixed and Updated many other functions
-- Many more features and fixes
-
-keep an eye out for the roaming Ho0pa! (Hoopa Loves to lead the party!)
-```
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
 <!-- RHS main side -->
@@ -166,6 +89,64 @@ keep an eye out for the roaming Ho0pa! (Hoopa Loves to lead the party!)
   </div>
 </body>
 </html>
+
+## **Download**
+{: .d-inline-block }
+
+New Release 
+{: .label .label-green }
+{: .d-inline-block }
+
+Bug Fix
+{: .label .label-yellow }
+
+[Latest v1.0.9.5](https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242){: .btn .btn-purple .mr-2 } [v1.0.9.4 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4829462676030982"
+     data-ad-slot="4808168615"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```
+What's New!
+
+- Create custom Spotlight Events
+- Mr. Kip now supports auto-generating mystery gift codes
+- Made the prefect IVs option give 6 prefect IVs instead of 3
+- Updated some PLA mons abilities
+- Added some Teal Mask (DLC) items and data
+- Made time-based evolutions match DNS  
+- Added some Gen 9 moves
+  - Triple Arrow
+  - Take Heart
+  - Infernal Parade
+  - Axe Kick
+  - Collision Course
+  - Spin Out
+  - Make It Rain
+- Fixed lati's being shiny only outside of battle
+- Fixed mints removing shinyness
+
+**__Fixes and Updates from EA versions__**
+- Made Hoopa summoning legends easier
+- Fixed mints changing gender
+- Fixed Include Legendary option
+- Updated some Gen 9 sprites
+- Made Dexnav usable in dark caves
+- Added Zero to hero ability
+- Fixed a visual bug where the HP turns 0/1
+- Fixed Hyper Training
+- Fixed many moves and abilities
+- Updated gen 9 sprites 
+- Added new mystery gifts
+```
 
 ### Previous Releases
 
