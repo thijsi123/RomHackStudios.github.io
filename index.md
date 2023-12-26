@@ -100,7 +100,7 @@ New Release
 Bug Fix
 {: .label .label-yellow }
 
-[Latest v1.0.9.5](https://www.mediafire.com/file/ynqryfb2jb2a2kb/Crest_v1.0.9.2.zip/file?dkey=hm0rue48r7d&r=1242){: .btn .btn-purple .mr-2 } [v1.0.9.4 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
+[Latest v1.0.9.5](https://ko-fi.com/api/file-upload/707bc987-121f-40bf-873a-44f74cfbd9bf/download?transactionId=8803dd5c-cb9c-4c28-864b-08ab289b1e27){: .btn .btn-purple .mr-2 } [v1.0.9.4 EA](https://romhackstudios.github.io/pages/early-access.html){: .btn .btn-blue }
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829462676030982"
      crossorigin="anonymous"></script>
