@@ -3,7 +3,7 @@
 <head>
   <title>Spotlight Event Generator</title>
   <style>
-    body {
+body {
       font-family: Arial, sans-serif;
       text-align: center;
       background-color: #333;
@@ -11,6 +11,22 @@
       margin: 0;
       padding: 20px;
     }
+
+    .clicked {
+      background-color: #424242; /* Or any other color you prefer */
+    }
+    /* .list-item. <-- that last dot might be cursed but it works lol*/
+    #scrollable-list .list-item. {
+      
+      height: 50px;
+      background-color: #000000; /* Or any other color you prefer */
+      margin: 5px 0;
+      cursor: pointer;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
 
     h1 {
       color: #fff;
@@ -46,6 +62,7 @@
     }
   </style>
   <script>
+
     const ISO_RANDOMIZE1 = (val) => 1103515245 * val + 24691;
 
     function randomSeeded(value) {
@@ -949,7 +966,48 @@
     "Dudunsparce": 982,
     "Kingambit": 983,
       };
+      const listContainer = document.getElementById('scrollable-list');
+      // Using Pokémon names from pokemonData as the items array
+  const items = Object.keys(pokemonData);
 
+
+function updateList(searchValue) {
+    listContainer.innerHTML = ''; // Clear current list
+    items.forEach((item) => {
+      if (item.toLowerCase().includes(searchValue.toLowerCase())) {
+        const div = document.createElement('div');
+        div.classList.add('list-item');
+        div.textContent = item;
+        div.style.cursor = 'pointer'; // Makes the mouse cursor change to a hand on hover
+        div.style.padding = '10px'; // Add some padding for better appearance
+        div.style.margin = '5px'; // Add some margin
+        div.style.border = '1px solid #ccc'; // Add a border
+        div.style.borderRadius = '5px'; // Rounded corners for the border
+        div.addEventListener('click', function() {
+          // Remove 'clicked' class from all other divs
+  document.querySelectorAll('.list-item').forEach(function(el) {
+    el.classList.remove('clicked');
+  });
+  // Add 'clicked' class to the clicked div
+  this.classList.add('clicked');
+
+  selectedSeed = pokemonData[item];
+  console.log(item + ' clicked, seed: ' + selectedSeed);
+          selectedSeed = pokemonData[item];
+          console.log(item + ' clicked, seed: ' + selectedSeed);
+        });
+        listContainer.appendChild(div);
+      }
+    });
+  }
+  // Initially populate the list
+  updateList('');
+
+  // Search box event listener
+  document.getElementById('pokemonSearchBox').addEventListener('input', function(e) {
+    updateList(e.target.value);
+  });
+});
       const dropdown = document.getElementById("pokemonDropdown");
 
       Object.keys(pokemonData).forEach((pokemon) => {
@@ -958,28 +1016,52 @@
         option.textContent = pokemon;
         dropdown.appendChild(option);
       });
-    });
 
-  function generateCode() {
-    const dropdown = document.getElementById("pokemonDropdown");
-    const selectedSeed = dropdown.value;
-    const generatedCode = randomSeeded(selectedSeed);
 
-    document.getElementById("generatedCode").innerText = "Generating ticket id please wait...";
-
-    setTimeout(function() {
-      document.getElementById("generatedCode").innerText = "Ticket Id: " + generatedCode;
-    }, 3000);
+      function generateCode() {
+  if (selectedSeed === null) {
+    alert('Please select a Pokémon first.');
+    return;
   }
+
+  const generatedCode = randomSeeded(selectedSeed);
+  document.getElementById("generatedCode").innerText = "Generating ticket id please wait...";
+
+  setTimeout(function() {
+    document.getElementById("generatedCode").innerText = "Ticket Id: " + generatedCode;
+  }, 3000);
+}
 
   </script>
 </head>
 <body>
   <h1>Spotlight Event Generator</h1>
   <label for="pokemonDropdown">Select a Pokémon:</label>
+<<<<<<< Updated upstream
   <select id="pokemonDropdown"></select>
   <br>
   <button onclick="generateCode()">Generate Code</button>
   <p id="generatedCode"></p>
+=======
+  <!-- Search Box -->
+<input type="text" id="pokemonSearchBox" placeholder="Search Pokémon...">
+  <br>
+  <br>
+  <button onclick="generateCode()">Generate Code</button>
+  <p id="generatedCode"></p>
+<div id="scrollable-list" style="height: 200px; overflow-y: auto;">
+</div>
+<script>
+  document.getElementById('pokemonSearchBox').addEventListener('input', function(e) {
+    var searchValue = e.target.value.toLowerCase();
+    var options = document.getElementById('pokemonDropdown').options;
+    for (var i = 0; i < options.length; i++) {
+      var optionText = options[i].text.toLowerCase();
+      options[i].style.display = optionText.includes(searchValue) ? 'block' : 'none';
+    }
+  });
+
+</script>
+>>>>>>> Stashed changes
 </body>
 </html>
